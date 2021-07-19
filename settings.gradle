@@ -1,0 +1,2 @@
+rootProject.name = "AndroidPagingLibrary_3.0_Example"
+include ':app'
