@@ -21,7 +21,6 @@ import javax.inject.Inject
 @AndroidEntryPoint
 class PassangerFragment : Fragment(R.layout.passanger_fragment){
 
-
     private val passangerViewModel : PassangerViewModel by viewModels()
 
     @Inject
